@@ -300,6 +300,6 @@ const updateStatus = async (req, res) => {
 
 
 // export { verifyStripe, verifyRazorpay, placeOrder, placeOrderStripe, placeOrderRazorpay, allOrders, userOrders, updateStatus, formatDateTime };
-export { verifyStripe, verifyRazorpay, placeOrder, placeOrderStripe, allOrders, userOrders, updateStatus, formatDateTime };
+export { verifyStripe, placeOrder, placeOrderStripe, allOrders, userOrders, updateStatus, formatDateTime };
 
 
