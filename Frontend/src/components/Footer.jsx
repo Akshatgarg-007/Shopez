@@ -6,7 +6,7 @@ const Footer = () => {
     <div>
       <div className="flex flex-col sm:grid grid-cols-[3fr_1fr_1fr] gap-14 my-10 mt-10 text-sm">
         <div>
-          <img src={assets.logo} alt="logo" className="mb-5 w-32" />
+          <img src={assets.ShopEZ} alt="logo" className="mb-1 w-32" />
           <p className="w-full md:w-2/3 text-gray-600">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
             delectus nostrum animi eaque temporibus maiores.
@@ -45,12 +45,12 @@ const Footer = () => {
           <span className="ml-1">
             Designed & Developed by{" "}
             <a
-              href="https://www.linkedin.com/in/pranto-kumar-a326801b3/"
+              href="https://github.com/Akshatgarg-007/Shopez"
               target="_blank"
               rel="noopener noreferrer"
               className="font-medium hover:underline"
             >
-              Pranto Kumar
+              ShopEZ
             </a>
           </span>
         </p>
