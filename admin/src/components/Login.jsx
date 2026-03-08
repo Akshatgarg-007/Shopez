@@ -34,12 +34,12 @@ const Login = ({ setToken }) => {
       <div className="bg-white shadow-md rounded-lg px-8 py-6 max-w-md">
         {/* Logo/Image */}
         <img
-          src={assets.logo_login}
+          src={assets.ShopEZ}
           alt="Admin Logo"
-          className="mx-auto mb-1 w-50 h-15 object-contain "
+          className="mx-auto w-50 h-50 object-contain "
         />
 
-        <h1 className="text-2xl font-bold mb-4 text-center">Admin Panel</h1>
+        <h1 className="text-2xl mt-[-25px] font-bold mb-4 text-center">Admin Panel</h1>
         <form onSubmit={onSubmitHandler}>
           {/* Email Field */}
           <div className="mb-3 min-w-72">
