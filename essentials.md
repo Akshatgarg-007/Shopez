@@ -7,4 +7,7 @@ npm create @vite@latest
 npm install react-router-dom
 npm install react-toastify
 
+Admin logins
+admin@example.com
+admin123
 

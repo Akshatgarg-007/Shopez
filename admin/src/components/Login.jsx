@@ -39,7 +39,7 @@ const Login = ({ setToken }) => {
           className="mx-auto w-50 h-50 object-contain "
         />
 
-        <h1 className="text-2xl mt-[-25px] font-bold mb-4 text-center">Admin Panel</h1>
+        <h1 className="text-2xl -mt-6.25 font-bold mb-4 text-center">Admin Panel</h1>
         <form onSubmit={onSubmitHandler}>
           {/* Email Field */}
           <div className="mb-3 min-w-72">
